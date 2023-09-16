@@ -1,5 +1,14 @@
 # Ayush Jayaswal
 <iframe src="https://giphy.com/embed/QOl6jeYYD84Elmpshb" width="480" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/playstation-playstation-meme-god-of-war-memes-QOl6jeYYD84Elmpshb">via GIPHY</a></p>
+
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV4M21zcjBmaWFyaW0zNGJybTRlY3Job3NtbXRxMTZzNGZqc3U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QOl6jeYYD84Elmpshb/giphy.gif
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV4M21zcjBmaWFyaW0zNGJybTRlY3Job3NtbXRxMTZzNGZqc3U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QOl6jeYYD84Elmpshb/giphy.gif" width="100"/>
+</div>
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
