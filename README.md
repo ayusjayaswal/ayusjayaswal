@@ -3,9 +3,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV4M21zcjBmaWFyaW0zNGJybTRlY3Job3NtbXRxMTZzNGZqc3U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QOl6jeYYD84Elmpshb/giphy.gif"/>
 </div>
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=ayusjayaswal&style=flat-square&color=blue" alt=""/>
-
+</div>
 
 
 Hey there, I'm Ayush Jayaswal!
