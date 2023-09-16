@@ -2,9 +2,10 @@
 <div align="center">
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=ecf05e47zf2rxzjz6lbmwvcywyfvnlkiwqezfwzsz2cxi8zr&ep=v1_gifs_related&rid=giphy.gif"/>
-</div><br>
+</div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ayusjayaswal&style=flat&color=orange" alt=""/>
+</div>
 </div>
 <br>
 Hey there, I'm Ayush Jayaswal!
@@ -15,8 +16,9 @@ Let's connect and geek out about all things software engineering! And more...
 
 Cheers,
 Ayush Jayaswal
-<br><br>
+<div align="center">
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayusjayaswal&show_icons=true&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-
 </div>
