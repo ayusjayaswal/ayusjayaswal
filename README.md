@@ -1,7 +1,7 @@
 # Ayush Jayaswal
 <div align="center">
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV4M21zcjBmaWFyaW0zNGJybTRlY3Job3NtbXRxMTZzNGZqc3U5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QOl6jeYYD84Elmpshb/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/zrdUjl6N99nLq/giphy.gif?cid=ecf05e47zf2rxzjz6lbmwvcywyfvnlkiwqezfwzsz2cxi8zr&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 </div><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ayusjayaswal&style=flat&color=orange" alt=""/>
