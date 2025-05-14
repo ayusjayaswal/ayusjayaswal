@@ -5,7 +5,7 @@
 </div>
   <br>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ayusjayaswal&style=flat&color=yellow" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=ayusjayaswal&style=flat&color=red" alt=""/>
 </div>
 </div>
 
