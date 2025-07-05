@@ -19,6 +19,11 @@
 </div>
 <br>
 <p align="right">
-<i>things i do, claude could never!  lol.               </i>
-</p>
+<i>things i do, your LLM could never!  lol.               </i>
+
+*Ayush Jayaswal is my name*  
+*And with my keyboard, I wrote the same.*  
+*I wrote in both haste and speed,*  
+*And left it here for fools to read.*
+
 <br>
