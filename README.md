@@ -19,11 +19,35 @@
 </div>
 <br>
 <p align="right">
-<i>things i do, your LLM could never!  lol.               </i>
 
-*Ayush Jayaswal is my name*  
-*And with my keyboard, I wrote the same.*  
-*I wrote in both haste and speed,*  
-*And left it here for fools to read.*
-
-<br>
+<section>
+    <h2>Contact Me</h2>
+    <ul style="list-style: none;">
+        <li>
+            <ion-icon name="chatbubbles"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/irc">ayushjayaswal.xyz/irc</a >
+        </li>
+        <li>
+            <ion-icon name="logo-linkedin"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/linkedin">ayushjayaswal.xyz/linkedin</a >
+        </li>
+        <li>
+            <ion-icon name="logo-twitter"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/x" >ayushjayaswal.xyz/x</a >
+        </li>
+        <li>
+            <ion-icon name="logo-mastodon"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/mastodon" >ayushjayaswal.xyz/mastodon</a >
+        </li>
+        <li>
+            <ion-icon name="logo-github"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/github" >ayushjayaswal.xyz/github</a >
+        </li>
+        <li>
+            <ion-icon name="mail"></ion-icon>
+            <a href="https://ayushjayaswal.xyz/email" >ayushjayaswal.xyz/email</a >
+        </li>
+    </ul>
+    <br>
+        If you wish to have a chat with me IRC is the best place to find me. I usually hang around in <a href="ircs://irc.libera.chat:6697/#linux">#linux</a> and <a href="ircs://irc.libera.chat:6697/#freebsd">#freebsd</a> on <a href="https://web.libera.chat/">libera.chat</a>
+</section>
