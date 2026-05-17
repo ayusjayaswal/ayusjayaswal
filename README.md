@@ -30,27 +30,27 @@
     <ul style="list-style: none;">
         <li>
             <ion-icon name="chatbubbles"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/irc">ayushjayaswal.xyz/irc</a >
+            <a href="https://ayushjayaswal.dev/irc">ayushjayaswal.dev/irc</a >
         </li>
         <li>
             <ion-icon name="logo-linkedin"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/linkedin">ayushjayaswal.xyz/linkedin</a >
+            <a href="https://ayushjayaswal.dev/linkedin">ayushjayaswal.dev/linkedin</a >
         </li>
         <li>
             <ion-icon name="logo-twitter"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/x" >ayushjayaswal.xyz/x</a >
+            <a href="https://ayushjayaswal.dev/x" >ayushjayaswal.dev/x</a >
         </li>
         <li>
             <ion-icon name="logo-mastodon"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/mastodon" >ayushjayaswal.xyz/mastodon</a >
+            <a href="https://ayushjayaswal.dev/mastodon" >ayushjayaswal.dev/mastodon</a >
         </li>
         <li>
             <ion-icon name="logo-github"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/github" >ayushjayaswal.xyz/github</a >
+            <a href="https://ayushjayaswal.dev/github" >ayushjayaswal.dev/github</a >
         </li>
         <li>
             <ion-icon name="mail"></ion-icon>
-            <a href="https://ayushjayaswal.xyz/email" >ayushjayaswal.xyz/email</a >
+            <a href="https://ayushjayaswal.dev/email" >ayushjayaswal.dev/email</a >
         </li>
     </ul>
     <br>
